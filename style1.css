@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: #294860;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+.mainlessons {
+    background-color: #294860;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.notes {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+.notes-title {
+    font-size: 20px;
+    margin: 8px;
+    text-align: center;
+    color: #294860;
+}
+
+.description {
+    font-weight: lighter;
+    margin: 6px;
+}
+
